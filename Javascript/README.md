@@ -6,3 +6,10 @@
 Object.getPrototypeOf(obj) === obj.__proto__ //true
 ```
 
+### 2. Template strings
+
+```javascript
+`hello ${who}`
+```
+
+
